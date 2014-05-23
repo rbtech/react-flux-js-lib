@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Flux • TodoMVC</title>
+		<link rel="stylesheet" href="todomvc-common/base.css">
+		<link rel="stylesheet" href="css/app.css">
+	</head>
+	<body>
+		<section id="todoapp" />
+		<footer id="info">
+			<p>Double-click to edit a todo</p>
+			<p>Created by <a href="http://facebook.com/bill.fisher.771">Bill Fisher</a></p>
+			<p>Part of <a href="http://todomvc.com">TodoMVC</a></p>
+		</footer>
+		<script src="todomvc-common/base.js"></script>
+
+		<script src="js/react/react-with-addons.min.js"></script>
+		<script src="js/react/flux.min.js"></script>
+
+		<script src="js/constants/TodoConstants.js"></script>
+		<script src="js/dispatcher/Dispatcher.js"></script>
+		<script src="js/dispatcher/AppDispatcher.js"></script>
+
+		<script src="js/stores/TodoStore.js"></script>
+		<script src="js/actions/TodoActions.js"></script>
+
+		<script src="js/components/TodoItem.js"></script>
+		<script src="js/components/TodoTextInput.js"></script>
+		<script src="js/components/Footer.js"></script>
+		<script src="js/components/MainSection.js"></script>
+		<script src="js/components/Header.js"></script>
+		<script src="js/components/TodoApp.js"></script>
+
+		<script src="js/app.js"></script>
+	</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "react-flux-todomvc",
+  "version": "0.0.2",
+  "description": "The React Flux TodoMVC with only client-side flux and React-Tools dependency.",
+  "keywords": [
+    "flux",
+    "react",
+    "react-flux",
+    "react-tools",
+    "gulp",
+    "build",
+    "dependency",
+    "dependencies"
+  ],
+  "author": {
+    "name": "Andrew Quan",
+    "email": "AndrewQ@RedBlueprint.com"
+  },
+  "license": "MIT"
+}
+
