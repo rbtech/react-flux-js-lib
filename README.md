@@ -1,6 +1,6 @@
 # React Flux JS Lib
 
-Client-side library for the React Flux architecture.
+Client-side library for the React Flux architecture (http://facebook.github.io/react/docs/flux-overview.html).
 
 
 ## Example
